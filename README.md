@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zongqishen7
 - 📫 Data Scientist at myKlovr, Research Assistant at Stevens Institute of Technology
 - 👀 Pop Music
-- 🌱 I’m currently learning Web Mining & ML
+- 🌱 Web Mining & ML & Statistical-learning & Financial Data Science & Database Design
 
 <!---
 Zongqishen7/Zongqishen7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
