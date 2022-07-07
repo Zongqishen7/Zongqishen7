@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zongqishen7
 - 📫 Data Scientist at myKlovr, Research Assistant at Stevens Institute of Technology
-- 👀 I’m interested in Pop Music
+- 👀 Pop Music
 - 🌱 I’m currently learning Web Mining & ML
 
 <!---
